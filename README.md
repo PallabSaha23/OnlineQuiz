@@ -1,2 +1,2 @@
 # OnlineQuiz
-Online Quiz Platform
+Welcome to Online Quiz Platform
